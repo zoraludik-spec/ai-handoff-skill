@@ -19,4 +19,4 @@ You don't need to download any files. Just tell your AI agent to fetch the promp
 
 1. Copy the RAW link to the `install.md` file:
    ```text
-   [https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/install.md](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/install.md)
+https://raw.githubusercontent.com/zoraludik-spec/ai-handoff-skill/refs/heads/main/install.md
